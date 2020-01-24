@@ -1,2 +1,2 @@
 # reactProject
-hello
+This project is to learn the Reactjs framework.
